@@ -18,4 +18,4 @@ To run this dahboard, you need to have Python 3.0 or later installed on your com
 ### Distribution of Shipping Types
 
 ### Top 10 Cusomter, Products, and Total Sales by Product Types
-
+These tables display the top 10 customers, products and total sales by product type for the filtered data
