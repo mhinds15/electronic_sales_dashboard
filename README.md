@@ -15,9 +15,12 @@ The sidebar of the dashoboard includes four filters that allow you to filter the
 * Payment method filter:
 * Order status filter: 
 ### KPI Metrics
-
+* Total sales
+* Total number of orders
+* Average order value
+* Number pf unique customers
 ### Sales Over time
-
+This chart display the total sales by product type over time. You can home over the chart to see the details for a  specific fate and product line.
 ### Sales by Product Type and Gender
 This chart displays the total saales by product type and gender. 
 ### Distribution of Shipping Types
