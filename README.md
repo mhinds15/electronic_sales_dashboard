@@ -32,6 +32,6 @@ specific date and product type.
 ### Sales by Product Type and Gender
 This chart displays the total sales by product type and gender. 
 ### Distribution of Shipping Types
-This chart disaplys the number of orders by shipping method.
+This chart dispalys the number of orders by shipping method.
 ### Top 10 Cusomter, Products, and Total Sales by Product Types
 These tables display the top 10 customers, products and total sales by product type and top payment methods for the filtered dataset.
