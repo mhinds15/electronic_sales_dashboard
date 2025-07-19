@@ -15,7 +15,7 @@ visualize the metrics and charts
 ## Features
 
 ### Filters
-The sidebar of the dashoboard includes four filters that allow you to filter the dataset:
+The sidebar of the dashboard includes four filters that allow you to filter the dataset:
 * Date range filter: choose a start and end date to filter by the order date.
 * Product type filter: select one or more product types to filter by.
 * Payment method filter: select one or more payment types to filter by.
@@ -31,6 +31,6 @@ specific date and product type.
 ### Sales by Product Type and Gender
 This chart displays the total sales by product type and gender. 
 ### Distribution of Shipping Types
-This chart dispalys the number of orders by shipping method.
-### Top 10 Cusomter, Products, and Total Sales by Product Types
+This chart displays the number of orders by shipping method.
+### Top 10 Customer, Products, and Total Sales by Product Types
 These tables display the top 10 customers, products and total sales by product type and top payment methods for the filtered dataset.
