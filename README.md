@@ -1,7 +1,6 @@
 # Sales Dashboard
 This sales dashboard is built using Streamlit, a popular python library for building interactive web applications. The\
-dashboard allows you to filter and explore a electronics sales dataset, and visualize key performance metrics, sales by product\
-type overtime, sales by product type and gender, top customers and products and total sales by product type.
+dashboard allows you to filter and explore a electronics sales dataset, and visualize key performance metrics, sales by product type overtime, sales by product type and gender, top customers and products and total sales by product type.
 ## Prerequisites
 To run this dashboard, you need to have Python 3.0 or later installed on your computer, as well as the following libraries:
 * Pandas
