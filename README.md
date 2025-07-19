@@ -10,7 +10,7 @@ To run this dashboard, you need to have Python 3.0 or later installed on your co
 ## How to use
 1. Download the Electronic_sales_Sep2023-Sep2024.csv file and put it in the data folder
 2. Run the script in your terminal or command prompt: streamlit run app.py
-3. The dashboard will open in your web browser. You can use the filters on the sidebar to explre the dataset and\
+3. The dashboard will open in your web browser. You can use the filters on the sidebar to explore the dataset and\
 visualize the metrics and charts
 ## Features
 
